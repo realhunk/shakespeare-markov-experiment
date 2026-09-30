@@ -1,4 +1,4 @@
-"""Reproduce the Shakespeare character-level Markov experiment for the poster."""
+
 
 import json
 import random
